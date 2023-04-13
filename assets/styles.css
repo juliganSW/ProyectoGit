@@ -5,3 +5,11 @@ body{
 p{
     border:1px solid black
 }
+.container{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid whitesmoke;
+    background-color:aquamarine;
+    border-radius: 0.5rem;
+    
+}
